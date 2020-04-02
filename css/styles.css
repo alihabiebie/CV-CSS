@@ -54,7 +54,7 @@ h3 {
 }
 
 .top-container {
-  background-image: url(images/background-intro.jpg);
+  background-image: url(https://raw.githubusercontent.com/alihabiebie/CV-CSS/master/images/background-intro.jpg);
   background-repeat: no-repeat;
   background-size: 100vw 100vh;
   height: 80vh;
